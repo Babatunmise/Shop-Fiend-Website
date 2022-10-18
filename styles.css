@@ -18,7 +18,9 @@
     font-family: "SF-Pro-Bold";
     src: url(FontsFree-Net-SFProText-Bold-1.ttf);
    }
-
+html{ 
+  scroll-behavior: smooth;
+  }
   * {
     box-sizing: border-box;
     scroll-behavior: smooth;
